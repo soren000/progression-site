@@ -8,9 +8,11 @@ export default css`
     font-weight: 400;
     line-height: 1.8;
     font-family: sans-serif;
+    color: red;
   }
   h1 {
     font-weight: 700;
+    color: red;
   }
   p {
     margin-bottom: 10px;
